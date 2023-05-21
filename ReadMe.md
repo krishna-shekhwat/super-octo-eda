@@ -41,4 +41,3 @@ Here is a summary of the dataset:
 - Can we identify any correlation between price and pack size/quantity?
 - What is the distribution of crawl timestamps? Are there any patterns or trends over time?
 - What is status of links in Data? 
-"# super-octo-eda" 
