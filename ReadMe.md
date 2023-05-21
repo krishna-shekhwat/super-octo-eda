@@ -1,3 +1,9 @@
+# EDA Project on Amazon Listing Data
+
+## Introduction
+
+In this exploratory data analysis (EDA) project, we will dive into a dataset that contains information about Amazon product listings. The dataset provides valuable insights into various aspects of the listings, such as product details, pricing, availability, and more. By conducting an in-depth analysis of this dataset, we aim to gain a comprehensive understanding of the Amazon product landscape and uncover interesting patterns and trends.
+
 ## Dataset Information
 
 The dataset contains information about Amazon product listings. It includes the following columns:
